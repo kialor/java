@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculation-assignment/calculation-assignment.iml" filepath="$PROJECT_DIR$/calculation-assignment/calculation-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting-assignment/casting-assignment.iml" filepath="$PROJECT_DIR$/casting-assignment/casting-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditional-statements-assignment/conditional-statements-assignment.iml" filepath="$PROJECT_DIR$/conditional-statements-assignment/conditional-statements-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicing-loops/practicing-loops.iml" filepath="$PROJECT_DIR$/practicing-loops/practicing-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/printing-practice-assignment/printing-practice-assignment.iml" filepath="$PROJECT_DIR$/printing-practice-assignment/printing-practice-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scanner-assignment/scanner-assignment.iml" filepath="$PROJECT_DIR$/scanner-assignment/scanner-assignment.iml" />
+    </modules>
+  </component>
+</project>
