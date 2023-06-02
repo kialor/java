@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be0f9bb9-904f-4deb-9397-ed3232e12614" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../black-jack/src/blackjack/Blackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../black-jack/src/blackjack/Blackjack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../black-jack/src/blackjack/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../black-jack/src/blackjack/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../black-jack/src/blackjack/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../black-jack/src/blackjack/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../black-jack/src/blackjack/Suits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../black-jack/src/blackjack/Suits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../black-jack/src/blackjack/Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/../black-jack/src/blackjack/Values.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casting-assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../casting-assignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy-hashmap-problems/src/Problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects-in-lists-practice - Copy/src/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objects-in-lists-practice - Copy/src/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects-in-lists-practice - Copy/src/MainCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objects-in-lists-practice - Copy/src/MainCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner-assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner-assignment" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QAMjrJ1pyRMhnLEvFE0HOpM4V4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be0f9bb9-904f-4deb-9397-ed3232e12614" name="Changes" comment="" />
+      <created>1684792070734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684792070734</updated>
+      <workItem from="1684792071731" duration="64000" />
+      <workItem from="1684792141681" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
