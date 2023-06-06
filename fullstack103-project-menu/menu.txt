@@ -1,0 +1,7 @@
+Burger,Delicious beef burger,10,8.99,Beef patty;Lettuce;Tomato;Cheese
+Pizza,Classic margherita pizza,15,12.99,Tomato sauce;Mozzarella cheese;Basil
+Spaghetti Bolognese,Classic Italian pasta with meat sauce,20,14.99,Spaghetti;Ground beef;Tomato sauce;Parmesan cheese
+Caesar Salad,Fresh romaine lettuce with Caesar dressing,10,9.99,Romaine lettuce;Croutons;Parmesan cheese;Caesar dressing
+Grilled Chicken Sandwich,Grilled chicken breast with lettuce and mayo,15,11.99,Grilled chicken breast;Lettuce;Tomato;Mayonnaise;Bread
+Fish and Chips,Battered fish with crispy fries,25,16.99,Fish fillet;Potato fries;Tartar sauce
+Pho,Pho noodle beef soup,20,12.99,pho; beef; onion; green onion
